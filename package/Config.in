@@ -2630,6 +2630,7 @@ endif
 	source "package/wireless_tools/Config.in"
 	source "package/wireshark/Config.in"
 	source "package/wpa_supplicant/Config.in"
+	source "package/wpa_supplicant_k44/Config.in" # batocera
 	source "package/wpan-tools/Config.in"
 	source "package/xinetd/Config.in"
 	source "package/xl2tp/Config.in"
